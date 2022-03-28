@@ -1,0 +1,1000 @@
+tom is anxious	tom ist sehr besorgt
+tom is ashamed	tom schamt sich
+tom is at home	tom ist zu hause
+tom is average	tom ist durchschnittlich
+tom is awesome	tom ist groartig
+tom is awkward	tom ist ungelenk
+tom is baffled	tom ist verwirrt
+tom is callous	tom ist gefuhllos
+tom is certain	tom ist sich sicher
+tom is complex	tom ist vielschichtig
+tom is cooking	tom kocht
+tom is correct	tom hat recht
+tom is correct	tom hat recht
+tom is curious	tom ist neugierig
+tom is cynical	tom ist zynisch
+tom is dancing	tom tanzt
+tom is dancing	tom tanzt gerade
+tom is devious	tom ist hinterhaltig
+tom is devoted	tom ist hingebungsvoll
+tom is dieting	tom ist auf diat
+tom is dressed	tom ist gut angezogen
+tom is driving	tom fahrt auto
+tom is dubious	tom ist fragwurdig
+tom is dusting	tom staubt ab
+tom is elusive	tom ist schwer zu fassen
+tom is engaged	tom ist verlobt
+tom is enraged	tom ist wutend
+tom is excused	tom ist entschuldigt
+tom is falling	tom fallt
+tom is fasting	tom fastet
+tom is fasting	tom fastet gerade
+tom is finicky	tom ist pingelig
+tom is focused	tom ist konzentriert
+tom is foolish	tom ist toricht
+tom is frantic	tom ist verzweifelt
+tom is freaked	tom ist durchgedreht
+tom is furious	tom ist wutend
+tom is gasping	tom schnappt nach luft
+tom is grouchy	tom ist ein griesgram
+tom is healthy	tom ist gesund
+tom is helpful	tom ist hilfreich
+tom is helping	tom hilft
+tom is hideous	tom ist abscheulich
+tom is history	tom ist geschichte
+tom is humming	tom summt
+tom is humming	tom summt gerade
+tom is hurting	es tut tom weh
+tom is immoral	tom ist unmoralisch
+tom is in here	tom ist da drinnen
+tom is in pain	tom hat schmerzen
+tom is intense	tom ist sehr intensiv
+tom is invited	tom ist eingeladen
+tom is jealous	tom ist eifersuchtig
+tom is jittery	tom ist nervos
+tom is jobless	tom ist arbeitslos
+tom is kidding	tom scherzt
+tom is kidding	tom macht witze
+tom is leaving	tom geht
+tom is likable	tom ist sympathisch
+tom is like me	tom ist wie ich
+tom is limping	tom hinkt
+tom is logical	tom denkt logisch
+tom is lovable	tom ist liebenswert
+tom is miserly	tom ist geizig
+tom is missing	tom fehlt
+tom is my boss	tom ist mein chef
+tom is my idol	tom ist mein idol
+tom is my name	tom ist mein name
+tom is naughty	tom ist ungezogen
+tom is nervous	tom ist nervos
+tom is neutral	tom ist neutral
+tom is no fool	tom ist kein dummkopf
+tom is no hero	tom ist kein held
+tom is no liar	tom ist kein lugner
+tom is nodding	tom nickt
+tom is obscene	tom ist obszon
+tom is on duty	tom hat dienst
+tom is our son	tom ist unser sohn
+tom is outside	tom ist drauen
+tom is packing	tom packt
+tom is panting	tom keucht
+tom is patient	tom ist geduldig
+tom is perfect	tom ist perfekt
+tom is playing	tom spielt
+tom is pleased	tom freut sich
+tom is pompous	tom ist aufgeblasen
+tom is popular	tom ist beliebt
+tom is praying	tom betet
+tom is precise	tom ist prazise
+tom is present	tom ist anwesend
+tom is psychic	tom ist ubersinnlich
+tom is puzzled	tom ist verwirrt
+tom is quicker	tom ist schneller
+tom is radical	tom ist radikal
+tom is reading	tom liest gerade
+tom is relaxed	tom ist entspannt
+tom is resting	tom ruht sich aus
+tom is retired	tom ist im ruhestand
+tom is running	tom rennt
+tom is selfish	tom ist egoistisch
+tom is serious	tom ist es ernst
+tom is shaking	tom zittert
+tom is shallow	tom ist oberflachlich
+tom is shaving	tom rasiert sich
+tom is shocked	tom ist schockiert
+tom is similar	tom ist ahnlich
+tom is sincere	tom ist aufrichtig
+tom is singing	tom singt
+tom is sitting	tom sitzt
+tom is skating	tom lauft schlittschuh
+tom is sloshed	tom ist besoffen
+tom is smarter	tom ist kluger
+tom is smashed	tom ist betrunken
+tom is smashed	tom ist besoffen
+tom is smiling	tom lachelt
+tom is smoking	tom raucht
+tom is snoring	tom schnarcht
+tom is so nice	tom ist so nett
+tom is so rude	tom ist so unhoflich
+tom is sobbing	tom schluchzt
+tom is special	tom ist etwas besonderes
+tom is spoiled	tom ist verwohnt
+tom is starved	tom ist hungrig
+tom is staying	tom bleibt
+tom is strange	tom ist seltsam
+tom is stuffed	tom ist vollgegessen
+tom is stunned	tom ist fassungslos
+tom is tactful	tom ist taktvoll
+tom is talking	tom redet
+tom is teasing	tom ist neckisch
+tom is tempted	tom ist versucht
+tom is the one	tom ist derjenige
+tom is thirsty	tom hat durst
+tom is through	tom ist fertig
+tom is touched	tom ist beruhrt
+tom is trapped	tom ist gefangen
+tom is unarmed	tom ist unbewaffnet
+tom is unfazed	tom ist unbeeindruckt
+tom is unlucky	tom hat pech
+tom is unmoved	tom bleibt unbewegt
+tom is unusual	tom ist ungewohnlich
+tom is useless	tom ist nutzlos
+tom is useless	tom ist ein nichtsnutz
+tom is vicious	tom ist bosartig
+tom is violent	tom ist gewalttatig
+tom is waiting	tom wartet
+tom is walking	tom geht
+tom is wealthy	tom ist wohlhabend
+tom is welcome	tom ist willkommen
+tom is whining	tom jammert
+tom is willing	tom ist willig
+tom is winning	tom gewinnt
+tom is winning	tom ist am gewinnen
+tom is winning	tom gewinnt gerade
+tom is with me	tom ist bei mir
+tom is with us	tom ist bei uns
+tom is working	tom arbeitet
+tom is worried	tom ist besorgt
+tom is worried	tom macht sich sorgen
+tom is wounded	tom ist verwundet
+tom is wounded	tom ist verletzt
+tom is yawning	tom gahnt
+tom is yelling	tom schreit
+tom isnt busy	tom ist nicht beschaftigt
+tom isnt done	tom ist nicht fertig
+tom isnt dumb	tom ist nicht dumm
+tom isnt fair	tom ist ungerecht
+tom isnt here	tom ist nicht hier
+tom isnt home	tom ist nicht zuhause
+tom isnt hurt	tom ist nicht verletzt
+tom isnt hurt	tom ist unversehrt
+tom isnt lazy	tom ist nicht faul
+tom isnt lost	tom ist nicht verloren
+tom isnt mean	tom ist nicht gemein
+tom isnt neat	tom ist nicht gepflegt
+tom isnt nice	tom ist nicht nett
+tom isnt nuts	tom ist nicht verruckt
+tom isnt poor	tom ist nicht arm
+tom isnt rich	tom ist nicht reich
+tom isnt rude	tom ist nicht unhoflich
+tom isnt safe	tom ist nicht sicher
+tom isnt sane	tom ist nicht gesund
+tom isnt sick	tom ist nicht krank
+tom isnt sure	tom ist sich nicht sicher
+tom isnt tall	tom ist nicht gro
+tom isnt thin	tom ist nicht dunn
+tom isnt tidy	tom ist nicht ordentlich
+tom isnt ugly	tom ist nicht hasslich
+tom isnt weak	tom ist nicht schwach
+tom isnt well	tom geht es nicht gut
+tom isnt wise	tom ist nicht gescheit
+tom kept going	tom ging weiter
+tom kept quiet	tom blieb still
+tom kept still	tom blieb ruhig
+tom kept watch	tom hielt wache
+tom knelt down	tom kniete nieder
+tom knew a lot	tom wusste eine menge
+tom knew a lot	tom wusste viel
+tom knows best	tom wei das am besten
+tom knows guns	tom kennt pistolen
+tom knows more	tom wei mehr
+tom knows that	tom wei das
+tom knows this	tom wei das
+tom left early	tom ging fruh fort
+tom let me win	tom lie mich gewinnen
+tom lied to me	tom hat mich angelogen
+tom lied to us	tom hat uns angelogen
+tom liked mary	tom mochte maria
+tom liked that	tom fand es gut
+tom likes mary	tom mag maria
+tom likes cats	tom mag katzen
+tom likes fish	tom isst gerne fisch
+tom likes fish	tom mag fisch
+tom likes jazz	tom mag jazz
+tom likes nuts	tom mag nusse
+tom likes rock	tom mag rock
+tom likes snow	tom mag schnee
+tom likes that	tom mag das
+tom likes them	tom mag sie
+tom likes this	tom mag das
+tom likes tuna	tom isst gerne thunfisch
+tom likes wine	tom mag wein
+tom lives here	tom lebt hier
+tom lives here	tom wohnt hier
+tom lives here	tom ist hier zu hause
+tom looked mad	tom sah bose aus
+tom looked old	tom sah alt aus
+tom looked sad	tom sah traurig aus
+tom looks busy	tom sieht beschaftigt aus
+tom looks cold	tom sieht aus als ob ihm kalt sei
+tom looks cool	tom sieht cool aus
+tom looks dead	tom sieht aus wie tot
+tom looks fine	tom sieht gut aus
+tom looks good	tom sieht gut aus
+tom looks hurt	tom sieht verletzt aus
+tom looks lost	tom sieht verloren aus
+tom looks nice	tom sieht gut aus
+tom looks pale	tom sieht bleich aus
+tom looks pale	tom sieht blass aus
+tom looks rich	tom sieht reich aus
+tom looks sick	tom sieht krank aus
+tom looks well	tom sieht gut aus
+tom lost again	tom hat wieder verloren
+tom lost count	tom hat den uberblick verloren
+tom loved mary	tom liebte maria
+tom loves mary	tom liebt maria
+tom loves cats	tom liebt katzen
+tom loves dogs	tom liebt hunde
+tom loves kids	tom liebt kinder
+tom loves that	tom liebt das
+tom loves this	tom liebt das
+tom made me go	tom hat mich dazu gebracht zu gehen
+tom made me go	ich bin wegen tom gegangen
+tom made noise	tom machte larm
+tom made plans	tom machte plane
+tom may be hot	tom kann hei sein
+tom may be hot	tom ist vielleicht hei
+tom may be out	tom ist vielleicht drauen
+tom may be out	tom ist vielleicht ausgegangen
+tom may change	tom kann sich andern
+tom means well	tom meint es gut
+tom meant that	tom meinte das
+tom meant well	tom hat es gut gemeint
+tom might come	tom kommt vielleicht
+tom might know	vielleicht wei es tom
+tom might talk	tom konnte reden
+tom might wait	tom konnte warten
+tom misled you	tom hat dich in die irre gefuhrt
+tom missed you	tom hat dich vermisst
+tom moved away	tom ist weggezogen
+tom needed you	tom hat dich gebraucht
+tom needs mary	tom braucht maria
+tom needs help	tom braucht hilfe
+tom needs hope	tom braucht hoffnung
+tom needs more	tom braucht mehr
+tom needs rest	tom braucht ruhe
+tom needs this	tom braucht das
+tom needs time	tom braucht zeit
+tom needs work	tom braucht arbeit
+tom never came	tom ist nie gekommen
+tom never left	tom ist nie gegangen
+tom never lied	tom hat nie gelogen
+tom never lies	tom lugt nie
+tom never wins	tom gewinnt nie
+tom nodded yes	tom nickte ja
+tom often wins	tom gewinnt oft
+tom owns a car	tom besitzt ein auto
+tom passed out	tom wurde ohnmachtig
+tom passed out	tom fiel in ohnmacht
+tom passed out	tom wurde bewusstlos
+tom passed out	tom verlor das bewusstsein
+tom passed out	tom hat das bewusstsein verloren
+tom pinched me	tom hat mich gezwickt
+tom punched me	tom hat mich geschlagen
+tom ran inside	tom rannte nach innen
+tom read a lot	tom las viel
+tom read a lot	tom hat viel gelesen
+tom remembered	tom erinnerte sich
+tom rescued me	tom hat mich gerettet
+tom rewrote it	tom hat es umgeschrieben
+tom rose to go	tom stand auf um zu gehen
+tom rushed off	tom eilte davon
+tom said hello	tom sagte hallo
+tom sat calmly	tom sa ruhig da
+tom sat nearby	tom sa in der nahe
+tom says hello	ich soll dich von tom gruen
+tom says hello	tom lasst dich gruen
+tom seemed mad	tom schien verruckt zu sein
+tom seemed sad	tom schien traurig zu sein
+tom seemed shy	tom schien schuchtern zu sein
+tom seems busy	es scheint dass tom beschaftigt ist
+tom seems busy	tom ist scheints beschaftigt
+tom seems busy	tom ist anscheinend beschaftigt
+tom seems busy	tom scheint beschaftigt zu sein
+tom seems calm	tom scheint ruhig zu sein
+tom seems fair	tom scheint fair zu sein
+tom seems fine	tom scheint in ordnung zu sein
+tom seems kind	tom scheint nett zu sein
+tom seems lost	tom scheint verloren zu sein
+tom seems mean	tom scheint gemein zu sein
+tom seems nice	tom macht einen netten eindruck
+tom seems sick	tom scheint krank zu sein
+tom seems wise	tom scheint gescheit zu sein
+tom sells cars	tom verkauft autos
+tom set a trap	tom stellte eine falle
+tom shot at me	tom schoss auf mich
+tom shot twice	tom hat zweimal geschossen
+tom should eat	tom sollte essen
+tom should run	tom sollte laufen
+tom should win	tom sollte gewinnen
+tom sings well	tom kann gut singen
+tom slapped me	tom hat mich geschlagen
+tom slept late	tom verschlief
+tom smelled it	tom hat das gerochen
+tom smells bad	tom riecht schlecht
+tom sounds mad	tom klingt verruckt
+tom sounds sad	tom klingt traurig
+tom stabbed me	tom hat mich gestochen
+tom started it	tom hat es gestartet
+tom started it	tom hat das angefangen
+tom stayed put	tom blieb still
+tom stood back	tom sah tatenlos zu
+tom stood back	tom blieb im hintergrund
+tom stopped by	tom kam vorbei
+tom stopped it	tom hielt es an
+tom stopped it	tom hat es gestoppt
+tom stopped me	tom hat mich zuruckgehalten
+tom stopped me	tom hat mich gestoppt
+tom swims here	tom schwimmt hier
+tom swims well	tom schwimmt gut
+tom talks fast	tom redet schnell
+tom talks fast	tom spricht schnell
+tom told on me	tom hat mich verpetzt
+tom took a cab	tom nahm sich ein taxi
+tom took cover	tom ging in deckung
+tom took notes	tom machte sich notizen
+tom took risks	tom ging risiken ein
+tom tricked me	tom hat mich hereingelegt
+tom tricked me	tom hat mich hinters licht gefuhrt
+tom tried that	tom hat das versucht
+tom tries hard	tom gibt sich groe muhe
+tom trusted me	tom vertraute mir
+tom trusts her	tom vertraut ihr
+tom trusts him	tom vertraut ihm
+tom trusts you	tom vertraut dir
+tom trusts you	tom vertraut ihnen
+tom trusts you	tom vertraut euch
+tom turned red	tom wurde rot
+tom understood	tom hat verstanden
+tom volunteers	tom meldet sich freiwillig
+tom walked off	tom ging weg
+tom walked out	tom ging raus
+tom walks fast	tom geht schnell
+tom wanted out	tom wollte raus
+tom wants mary	tom will maria
+tom wants more	tom will mehr
+tom wants that	tom will das haben
+tom wants this	tom will das
+tom warned him	tom hat ihn gewarnt
+tom warned you	tom hat dich gewarnt
+tom was a jerk	tom war ein narr
+tom was abroad	tom war im ausland
+tom was absent	tom war abwesend
+tom was amused	tom war amusiert
+tom was asleep	tom hat geschlafen
+tom was beaten	tom war geschlagen
+tom was better	tom war besser
+tom was biased	tom war voreingenommen
+tom was boring	tom war langweilig
+tom was bright	tom war gescheit
+tom was caught	tom wurde erwischt
+tom was clever	tom war clever
+tom was crafty	tom war schlau
+tom was cranky	tom war launisch
+tom was crying	tom weinte
+tom was crying	tom heulte
+tom was crying	tom flennte
+tom was eating	tom hat gegessen
+tom was famous	tom war beruhmt
+tom was framed	tom wurde reingelegt
+tom was fuming	tom war wutend
+tom was gentle	tom war sanft
+tom was greedy	tom war gierig
+tom was grumpy	tom war murrisch
+tom was guilty	tom war schuldig
+tom was heroic	tom war heldenhaft
+tom was honest	tom war ehrlich
+tom was humble	tom war bescheiden
+tom was hungry	tom war hungrig
+tom was insane	tom war verruckt
+tom was inside	tom war drinnen
+tom was joking	tom machte witze
+tom was killed	tom wurde umgebracht
+tom was lonely	tom war einsam
+tom was mugged	tom wurde uberfallen
+tom was mugged	tom wurde ausgeraubt
+tom was mugged	tom ist ausgeraubt worden
+tom was mugged	tom ist uberfallen worden
+tom was polite	tom war hoflich
+tom was robbed	tom wurde ausgeraubt
+tom was ruined	tom war ruiniert
+tom was scared	tom bekam es mit der angst zu tun
+tom was second	tom war zweiter
+tom was sewing	tom war am nahen
+tom was sewing	tom nahte
+tom was shaken	tom war erschuttert
+tom was silent	tom war still
+tom was skiing	tom war skifahren
+tom was skinny	tom war mager
+tom was sleepy	tom war mude
+tom was sneaky	tom war hinterhaltig
+tom was square	tom war ein spieer
+tom was stoned	tom war bekifft
+tom was strong	tom war stark
+tom was stupid	tom war dumm
+tom was thirty	tom war dreiig
+tom was touchy	tom war empfindlich
+tom was unfair	tom war unfair
+tom was unhurt	tom war unverletzt
+tom was unkind	tom war nicht nett
+tom was untidy	tom war unordentlich
+tom wasnt bad	tom war nicht schlecht
+tom wasnt fat	tom war nicht dick
+tom wasnt mad	tom war nicht sauer
+tom wasnt shy	tom war nicht schuchtern
+tom wasnt wet	tom war nicht nass
+tom went alone	tom ging alleine
+tom went blind	tom erblindete
+tom went crazy	tom wurde verruckt
+tom went first	tom ging zuerst
+tom will agree	tom wird zustimmen
+tom will check	tom wird es uberprufen
+tom will dance	tom wird tanzen
+tom will do it	tom wird es tun
+tom will drive	tom wird fahren
+tom will fight	tom wird kampfen
+tom will hurry	tom wird sich beeilen
+tom will share	tom wird teilen
+tom will shoot	tom wird schieen
+tom will speak	tom wird sprechen
+tom will start	tom wird anfangen
+tom will start	tom fangt an
+tom wont bite	tom wird nicht beien
+tom wont care	tom wird es egal sein
+tom wont come	tom wird nicht kommen
+tom wont deal	tom wird nicht verhandeln
+tom wont help	tom wird nicht helfen
+tom wont know	tom wird es nicht wissen
+tom wont lose	tom wird nicht verlieren
+tom wont mind	tom wird nichts dagegen haben
+tom wont sing	tom wird nicht singen
+tom wont stay	tom wird nicht bleiben
+tom wont stop	tom wird nicht aufhoren
+tom wont talk	tom wird nicht reden
+tom wont wait	tom wird nicht warten
+tom wore a hat	tom trug einen hut
+tom works fast	tom arbeitet schnell
+tom works hard	tom arbeitet eifrig
+tom works here	tom arbeitet hier
+tom would know	tom wurde es wissen
+tom would wait	tom wurde warten
+tom zoomed out	tom zoomte raus
+tomll improve	tom wird sich verbessern
+tomll succeed	tom wird erfolg haben
+toms canadian	tom ist kanadier
+toms a grouch	tom ist ein miesepeter
+toms a threat	tom ist eine gefahr
+toms bleeding	tom blutet
+toms charming	tom ist bezaubernd
+toms cheerful	tom ist gut gelaunt
+toms confused	tom ist verwirrt
+toms diabetic	tom ist diabetiker
+toms divorced	tom ist geschieden
+toms doing ok	tom geht es gut
+toms fearless	tom ist furchtlos
+toms finished	tom ist am ende
+toms finished	tom ist fix und fertig
+toms grieving	tom trauert
+toms grinning	tom ist am grinsen
+toms harmless	tom ist harmlos
+toms homeless	tom ist obdachlos
+toms hungover	tom ist verkatert
+toms in there	tom ist da drinnen
+toms innocent	tom ist unschuldig
+toms laughing	tom lacht
+toms not busy	tom ist nicht beschaftigt
+toms not here	tom ist nicht hier
+toms not home	tom ist nicht zu hause
+toms not sick	tom ist nicht krank
+toms not weak	tom ist nicht schwach
+toms out cold	tom ist bewusstlos
+toms resigned	tom ist zuruckgetreten
+toms returned	tom ist zuruckgekommen
+toms sleeping	tom schlaft
+toms stalling	tom zogert
+toms stranded	tom ist mittellos
+toms studying	tom studiert
+toms swimming	tom schwimmt
+toms terrific	tom ist groartig
+toms the boss	tom ist der boss
+toms unstable	tom ist labil
+toms upstairs	tom ist oben
+toms very sad	tom ist sehr traurig
+toms watching	tom sieht zu
+toms watching	tom schaut sich das an
+tom answer me	tom antworte mir
+tom dont die	stirb nicht tom
+trust your gut	verlass dich auf dein bauchgefuhl
+trust your gut	verlass dich auf deinen bauch
+try this candy	probiere diese suigkeit
+try this sauce	probiere einmal diese soe
+try this sauce	probiert diese soe
+try this sauce	probieren sie diese soe
+turn on the tv	schalte den fernseher an
+turn up the tv	mach den fernseher lauter
+turn up the tv	macht den fernseher lauter
+turn up the tv	machen sie den fernseher lauter
+use your charm	lass deinen charme spielen
+wait you guys	leute wartet mal
+war isnt good	krieg ist nicht gut
+was i too loud	war ich zu laut
+was tom afraid	hatte tom angst
+was tom asleep	hat tom geschlafen
+was tom caught	ist tom geschnappt worden
+was tom caught	wurde tom erwischt
+was tom crying	hat tom geweint
+was tom killed	wurde tom getotet
+was that a yes	war das ein ja
+wash your face	wasch dir das gesicht
+wash your feet	wasch deine fue
+wash your feet	wasche deine fue
+wash your feet	wasch dir die fue
+watch the road	pass auf die strae auf
+watch the road	passt auf die strae auf
+watch the road	passen sie auf die strae auf
+watch yourself	pass auf dich auf
+way to go tom	gut gemacht tom
+way to go tom	weiter so tom
+way to go tom	na toll tom
+we adopted tom	wir haben tom adoptiert
+we all knew it	wir wussten es alle
+we all know it	wir wissen es alle
+we all laughed	wir haben alle gelacht
+we already ate	wir haben schon gegessen
+we are at home	wir sind zu hause
+we are cousins	wir sind cousins
+we are doctors	wir sind arzte
+we belong here	wir sind hier zu hause
+we can proceed	wir konnen fortfahren
+we cant do it	wir konnen das nicht
+we cant do it	wir konnen es nicht
+we didnt sing	wir haben nicht gesungen
+we drank a lot	wir haben viel getrunken
+we exaggerated	wir haben ubertrieben
+we fell asleep	wir sind eingeschlafen
+we forgave tom	wir haben tom vergeben
+we forgive him	wir vergeben ihm
+we go tomorrow	wir fahren morgen ab
+we go way back	wir kennen uns schon ewig
+we got dressed	wir zogen uns an
+we got married	wir haben geheiratet
+we got married	wir haben uns vermahlt
+we had a blast	wir hatten einen mordsspa
+we had a fight	wir hatten streit
+we had to come	wir mussten kommen
+we had to stop	wir mussten anhalten
+we had to stop	wir mussten aufhoren
+we had to walk	wir mussten zu fu gehen
+we have a farm	wir haben einen bauernhof
+we have a plan	wir haben einen plan
+we have guests	wir haben gaste
+we have guests	wir haben besuch
+we have it all	wir haben alles
+we heard shots	wir haben schusse gehort
+we ignored tom	wir haben tom ignoriert
+we knew enough	wir wussten genug
+we knew no one	wir kannten keinen
+we know enough	wir wissen genug
+we laugh a lot	wir lachen viel
+we love coffee	wir lieben kaffee
+we made him go	wir haben ihn dazu gebracht zu gehen
+we met earlier	wir sind uns schon einmal begegnet
+we must attack	wir mussen angreifen
+we need a hero	wir brauchen einen helden
+we need a plan	wir brauchen einen plan
+we need to eat	wir mussen essen
+we need to win	wir mussen gewinnen
+we needed help	wir brauchten hilfe
+we only kissed	wir haben uns nur gekusst
+we owe you one	du hast was gut bei uns
+we owe you one	ihr habt was gut bei uns
+we owe you one	sie haben was gut bei uns
+we paid for it	wir haben dafur bezahlt
+we respect tom	wir respektieren tom
+we respect her	wir respektieren sie
+we shook hands	wir gaben uns die hand
+we study music	wir studieren musik
+we surrendered	wir kapitulierten
+we tricked tom	wir haben tom ausgetrickst
+we trusted tom	wir vertrauten tom
+we trusted tom	wir haben tom vertraut
+we visited tom	wir haben tom besucht
+we volunteered	wir meldeten uns freiwillig
+we volunteered	wir haben uns freiwillig gemeldet
+we walked here	wir sind hier gegangen
+we walked here	wir sind zu fu gekommen
+we went skiing	wir sind schi fahren gegangen
+we went skiing	wir sind ski fahren gegangen
+we were robbed	wir wurden ausgeraubt
+we were robbed	wir sind ausgeraubt worden
+we were scared	wir hatten angst
+we were wasted	wir waren ganz schon besoffen
+we were wasted	wir waren sternhagelvoll
+wed like that	das hatten wir gerne
+well be happy	wir werden glucklich sein
+well be there	wir werden dort sein
+well bury you	wir werden dich begraben
+well call tom	wir werden tom anrufen
+well call you	wir rufen sie an
+well call you	wir rufen dich an
+well call you	wir rufen dich
+well call you	wir rufen sie
+well continue	wir werden fortfahren
+well continue	wir werden weitermachen
+well do great	wir werden das gut machen
+well find tom	wir werden tom finden
+well find out	wir werden es herausbekommen
+well fix this	wir bringen das in ordnung
+well help you	wir werden dir helfen
+well help you	wir werden ihnen helfen
+well help you	wir werden euch helfen
+well kill you	wir werden dich toten
+well kill you	wir werden sie toten
+well kill you	wir werden euch toten
+well meet tom	wir werden tom treffen
+well miss tom	wir werden tom vermissen
+well miss you	wir werden sie vermissen
+well miss you	wir werden dich vermissen
+well paint it	wir werden es anmalen
+well show tom	wir werden es tom zeigen
+well stop tom	wir werden tom stoppen
+well stop you	wir werden es verhindern
+well stop you	wir werden dich stoppen
+well stop you	wir werden dich aufhalten
+well tell tom	wir werden es tom sagen
+were a family	wir sind eine familie
+were all done	wir sind ganz fertig
+were all here	wir sind alle hier
+were all here	wir sind alle da
+were brothers	wir sind bruder
+were confused	wir sind verwirrt
+were creative	wir sind kreativ
+were decisive	wir sind entschlossen
+were divorced	wir sind geschieden
+were doing ok	es geht uns gut
+were escaping	wir sind dabei zu entkommen
+were famished	wir verhungern
+were famished	wir sind am verhungern
+were famished	wir fallen vor hunger um
+were fighting	wir kampfen
+were free now	wir sind jetzt frei
+were geniuses	wir sind genies
+were grateful	wir sind dankbar
+were helpless	wir sind hilflos
+were horrible	wir sind furchterlich
+were horrible	wir sind schrecklich
+were innocent	wir sind unschuldig
+were managing	wir kommen zurecht
+were not busy	wir sind nicht beschaftigt
+were not free	wir sind nicht frei
+were not home	wir sind nicht zu hause
+were not lost	wir sind nicht verloren
+were not poor	wir sind nicht arm
+were not rich	wir sind nicht reich
+were partners	wir sind partner
+were powerful	wir sind stark
+were powerful	wir sind machtig
+were powerful	wir sind einflussreich
+were reliable	man kann sich auf uns verlassen
+were shooting	wir schieen
+were standing	wir stehen
+were starving	wir verhungern
+were starving	wir sind am verhungern
+were students	wir sind studenten
+were students	wir sind schuler
+were the best	wir sind die besten
+were too busy	wir sind zu beschaftigt
+were too late	wir kommen zu spat
+were with you	wir sind bei dir
+weve found it	wir haben es gefunden
+weve found it	wir haben sie gefunden
+weve found it	wir haben ihn gefunden
+weve got time	wir haben zeit
+weve seen her	wir haben sie gesehen
+weve seen him	wir haben ihn gesehen
+well done tom	gut gemacht tom
+well lets go	na gut auf gehts
+were they here	waren sie hier
+were they here	sind sie hier gewesen
+were you there	warst du dort
+what a big dog	was fur ein groer hund
+what a country	was fur ein land
+what a hot day	was fur ein heier tag
+what a thought	was fur ein gedanke
+what about tom	was ist mit tom
+what about you	was ist mit ihnen
+what are these	was sind diese
+what are those	was sind diese
+what can i eat	was kann ich essen
+what day is it	welcher tag ist heute
+what do i have	was habe ich
+what do i know	was wei ich
+what do i need	was brauche ich
+what do we owe	was sind wir schuldig
+what do you do	was machen sie
+what is it for	wozu ist es gut
+what is it for	wofur ist es da
+what is it now	was ist jetzt schon wieder
+what was there	was war da
+whatll tom do	was wird tom tun
+whatll change	was wird sich andern
+whatll happen	was wird passieren
+whatll happen	was kommt vor
+whatll you do	was wirst du tun
+whats tom got	was hat tom
+whats in here	was ist hier drin
+whats it like	wie ist es
+whats missing	was fehlt
+whats the use	zu was ist es gut
+whats the use	was nutzt es
+whats up tom	was ist los tom
+where am i now	wo bin ich jetzt
+where is paris	wo ist paris
+where is paris	wo liegt paris
+where were you	wo wart ihr
+where were you	wo waren sie
+wheres boston	wo liegt boston
+wheres an atm	wo gibt es einen geldautomaten
+wheres my bag	wo ist meine tasche
+wheres my car	wo ist mein auto
+wheres my cup	wo ist meine tasse
+wheres my hat	wo ist mein hut
+wheres my mom	wo ist meine mama
+wheres my son	wo ist mein sohn
+wheres my tip	wo ist mein trinkgeld
+wheres my tip	wo bleibt mein trinkgeld
+which side won	welche seite hat gewonnen
+who broke this	wer hat das kaputtgemacht
+who built this	wer hat das gebaut
+who called you	wer hat dich angerufen
+who caught tom	wer hat tom gefangen
+who complained	wer hat sich beschwert
+who did he see	wen hat er gesehen
+who else knows	wer wei sonst noch bescheid
+who found them	wer hat sie gefunden
+who found this	wer hat das hier gefunden
+who goes there	wer geht
+who goes there	wer geht dort
+who has it now	wer hat es jetzt
+who has it now	wer hat sie jetzt
+who has it now	wer hat ihn jetzt
+who helped tom	wer half tom
+who intervened	wer ist eingeschritten
+who intervened	wer schritt ein
+who killed tom	wer hat tom getotet
+who killed tom	wer hat tom umgebracht
+who kissed tom	wer hat tom gekusst
+who knows that	wer wei das
+who lives here	wer lebt hier
+who made these	wer hat die da gemacht
+who removed it	wer hat es weggenommen
+who removed it	wer hat ihn weggenommen
+who removed it	wer hat sie weggenommen
+who removed it	wer hat sie weggeraumt
+who removed it	wer hat sie entfernt
+who removed it	wer hat es weggeraumt
+who removed it	wer hat ihn weggeraumt
+who removed it	wer hat es entfernt
+who removed it	wer hat ihn entfernt
+who removed it	wer hat es beseitigt
+who removed it	wer hat ihn beseitigt
+who removed it	wer hat sie beseitigt
+who sells this	wer verkauft das
+who warned you	wer hat dich gewarnt
+who warned you	wer hat euch gewarnt
+who warned you	wer hat sie gewarnt
+who will do it	wer wird es machen
+who wrote this	wer hat das geschrieben
+whod buy this	wer wurde das kaufen
+whod hurt tom	wer wurde tom verletzen
+whod kiss tom	wer wurde tom kussen
+wholl succeed	wer wird erfolg haben
+whos tom with	mit wem ist tom beisammen
+whos at fault	wer ist schuld
+whos confused	wer ist verwirrt
+whos laughing	wer lacht
+whos not busy	wer hat nichts zu tun
+whos not busy	wer ist denn nicht beschaftigt
+whos on watch	wer hat wache
+whos quitting	wer hort auf
+whos speaking	mit wem spreche ich
+whos standing	wer steht
+whos that boy	wer ist der junge da
+whos that for	fur wen ist das
+whos watching	wer sieht zu
+whos with tom	wer ist mit tom
+whos your dad	wer ist dein vater
+whos your mom	wer ist deine mutter
+whose are they	wem gehoren sie
+why am i going	warum gehe ich
+why cant i go	warum darf ich nicht gehen
+why do you ask	warum fragst du
+why do you ask	warum fragt ihr
+why do you lie	wieso lugst du
+why do you lie	warum lugst du
+why dont i go	warum gehe ich nicht
+why is tom shy	warum ist tom schuchtern
+why is tom wet	warum ist tom nass
+why is he here	warum ist er hier
+why is it dark	warum ist es dunkel
+why is it here	warum ist er hier
+why is it here	warum ist sie hier
+why is it here	warum ist das hier
+will you do it	werdet ihr das machen
+wind the clock	zieh die uhr auf
+wipe your nose	wisch dir die nase
+wipe your nose	wischen sie sich die nase
+women hate tom	frauen hassen tom
+women like tom	frauen lieben tom
+women loved it	frauen liebten es
+wont you sing	willst du nicht singen
+yes i know it	ja ich wei es
+yes of course	ja naturlich
+yes we can go	ja wir konnen gehen
+you are morons	ihr seid idioten
+you are morons	sie sind idioten
+you are stupid	du bist dumm
+you arent tom	du bist nicht tom
+you arent fat	du bist nicht dick
+you arent fat	ihr seid nicht dick
+you arent fat	sie sind nicht dick
+you can go now	du kannst jetzt gehen
+you cant lose	du kannst nicht verlieren
+you cant lose	sie konnen nicht verlieren
+you cant stop	du kannst nicht aufhoren
+you cant stop	sie konnen nicht aufhoren
+you cant stop	ihr konnt nicht aufhoren
+you cant walk	du kannst nicht laufen
+you could lead	du konntest die fuhrung ubernehmen
+you could lead	sie konnten die fuhrung ubernehmen
+you could lead	ihr konntet die fuhrung ubernehmen
+you disgust me	du widerst mich an
+you disgust me	sie widern mich an
+you flatter me	du schmeichelst mir
+you have to go	du musst gehen
+you have to go	ihr musst gehen
+you have to go	sie mussen gehen
+you killed tom	du hast tom umgebracht
+you killed tom	du hast tom getotet
+you learn fast	du lernst schnell
+you learn fast	sie lernen schnell
+you lied to me	du hast mich angelogen
+you lied to me	sie haben mich angelogen
+you lied to us	du hast uns angelogen
+you lied to us	sie haben uns angelogen
+you lied to us	ihr habt uns angelogen
+you look great	du siehst toll aus
+you look great	du siehst groartig aus
+you look happy	du siehst glucklich aus
+you look sharp	du siehst scharf aus
+you look tired	du siehst mude aus
+you look upset	du siehst verstort aus
+you may go now	du darfst jetzt gehen
+you may go now	sie durfen jetzt gehen
+you must do it	du musst das machen
+you must leave	du musst gehen
+you must leave	du musst los
+you must leave	du musst losgehen
+you need a car	du brauchst ein auto
+you need a car	ihr braucht ein auto
+you need a car	sie brauchen ein auto
+you need a key	du brauchst einen schlussel
+you need a key	ihr braucht einen schlussel
+you need a key	sie brauchen einen schlussel
+you need to go	du musst gehen
+you need to go	ihr musst gehen
+you need to go	sie mussen gehen
+you never know	man wei nie
+you scared tom	du hast tom angst gemacht
+you seem upset	du scheinst besturzt zu sein
+you seem upset	sie scheinen besturzt zu sein
+you seem upset	ihr scheint besturzt zu sein
+you should eat	du solltest essen
+you should eat	sie sollten essen
+you smell good	du riechst gut
+you were brave	du warst tapfer
+you were brave	ihr wart tapfer
+you were great	du warst groartig
+you were happy	du warst glucklich
+you were lucky	gluck gehabt
+youd have fun	sie wurden sich amusieren
+youd have fun	ihr wurdet euch amusieren
+youd have fun	du wurdest dich amusieren
+youd like tom	du wurdest tom mogen
+youd love tom	du wurdest tom lieben
+youll all die	ihr werdet alle sterben
+youll be fine	es wird dir gut gehen
+youll be fine	du wirst schon klarkommen
+youll do fine	du wirst es gut machen
+youll get one	du wirst eins bekommen
+youll like it	du wirst es mogen
+youll love it	du wirst es lieben
+youll make it	du wirds das schaffen
+youll make it	du schaffst das
+youll miss me	du wirst mich vermissen
+youll see tom	du wirst tom sehen
+youre a loser	du bist eine niete
+youre a woman	du bist eine frau
+youre amazing	ihr seid unglaublich
+youre amazing	sie sind unglaublich
+youre chicken	du bist ein feiges huhn
+youre correct	du hast recht
+youre correct	sie haben recht
+youre correct	ihr habt recht
+youre correct	ihr habt recht
+youre correct	sie haben recht
+youre humming	du summst
+youre humming	ihr summt
+youre humming	sie summen
+youre humming	du summst gerade
+youre humming	ihr summt gerade
+youre humming	sie summen gerade
+youre in love	du bist verliebt
+youre in luck	da hast du gluck gehabt
+youre in luck	du hast gluck
+youre invited	du bist eingeladen
+youre invited	ihr seid eingeladen
+youre invited	sie sind eingeladen
+youre jealous	du bist eifersuchtig
+youre kidding	das kann nicht dein ernst sein
+youre kidding	du willst mich auf den arm nehmen
+youre kidding	du machst wohl witze
+youre kidding	das kann nicht ihr ernst sein
+youre kidding	das kann nicht euer ernst sein
+youre kidding	ihr macht wohl witze
+youre kidding	sie machen wohl witze
+youre like me	du bist wie ich
+youre my boss	du bist mein boss
+youre my boss	du bist mein chef
+youre my hero	du bist mein held
+youre my type	du bist mein typ
+youre nervous	sie sind nervos
+youre nervous	du bist nervos
+youre nervous	ihr seid nervos
+youre not god	du bist nicht gott
+youre not tom	du bist nicht tom
+youre not fit	du bist nicht in form
+youre not fit	du bist nicht fit
+youre not old	sie sind nicht alt
+youre patient	du bist geduldig
+youre patient	sie sind geduldig
+youre patient	ihr seid geduldig
+youre selfish	du bist selbstsuchtig
+youre so lazy	du bist ja so faul
+youre so lazy	ihr seid ja so faul
+youre so lazy	du bist so faul
+youre so lazy	ihr seid so faul
+youre so nice	du bist so sympathisch
+youre the man	du bist der grote
+youre too big	du bist zu gro
+youre unlucky	du hast pech
+youre unlucky	sie haben pech
+youre unlucky	ihr habt pech
+youre unusual	du bist ungewohnlich
+youre unusual	sie sind ungewohnlich
+youre unusual	ihr seid ungewohnlich
+youre useless	du bist ein nichtsnutz
+youre useless	du bist nutzlos
+youre useless	ihr seid nutzlos
+youre useless	sie sind nutzlos
